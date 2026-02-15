@@ -1,10 +1,11 @@
 # CleanSight ✨  
 **AI Data Cleaning Assistant for Analysts (Local-First, No Code)**
+🔗 **Live App:** https://483db6dc-f816-455d-96f4-8fd52838e2dc-00-ypcsu2w7hs97.picard.replit.dev/
 
  **Problem solved:** Analysts spend too much time cleaning messy data and too little time analyzing it.  
-> **Solution:** CleanSight automates data profiling, detects quality issues, and applies safe, explainable cleaning — without code or external APIs.
+> **Solution:** CleanSight automates data profiling, detects quality issues, and applies safe, explainable cleaning, without code or external APIs.
 
-CleanSight is a local-first, AI-assisted web app that helps analysts transform messy CSV/TSV/TXT datasets into **analysis-ready data** in minutes. It automates profiling, issue detection, cleaning recommendations, and exports — while prioritizing **transparency, data correctness, and reproducibility**.
+CleanSight is a local-first, AI-assisted web app that helps analysts transform messy CSV/TSV/TXT datasets into **analysis-ready data** in minutes. It automates profiling, issue detection, cleaning recommendations, and exports, while prioritizing **transparency, data correctness, and reproducibility**.
 
 ---
 
@@ -46,7 +47,7 @@ CleanSight was designed to:
 - Make every cleaning decision visible and reversible
 - Quantify **net improvement**, not just transformation
 
-This project emphasizes correctness, trust, and reproducibility — not black-box automation.
+This project emphasizes correctness, trust, and reproducibility, not black-box automation.
 
 ---
 
