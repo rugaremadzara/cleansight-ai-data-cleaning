@@ -34,6 +34,20 @@ Apply cleaning actions with previews and toggles:
 - Cleaning report (HTML / TXT)
 - Before vs After metrics with Data Quality Score
 
+- ---
+
+## 🎯 Why This Project Matters
+
+Data cleaning tools often automate transformations without explaining tradeoffs,
+which can silently degrade data quality.
+
+CleanSight was designed to:
+- Prevent silent data loss during type conversion
+- Make every cleaning decision visible and reversible
+- Quantify **net improvement**, not just transformation
+
+This project emphasizes correctness, trust, and reproducibility — not black-box automation.
+
 ---
 
 ## 🧠 Core Principles
