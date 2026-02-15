@@ -10,7 +10,7 @@ CleanSight is a local-first, AI-assisted web app that helps analysts transform m
 
 ## 🚀 What CleanSight Does
 
-**Upload → Diagnose → Fix → Export**
+**Upload > Diagnose > Fix > Export**
 
 ### 🔍 Diagnose (Automatic)
 CleanSight profiles your dataset and detects:
