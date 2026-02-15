@@ -1,6 +1,9 @@
 # CleanSight ✨  
 **AI Data Cleaning Assistant for Analysts (Local-First, No Code)**
 
+ **Problem solved:** Analysts spend too much time cleaning messy data and too little time analyzing it.  
+> **Solution:** CleanSight automates data profiling, detects quality issues, and applies safe, explainable cleaning — without code or external APIs.
+
 CleanSight is a local-first, AI-assisted web app that helps analysts transform messy CSV/TSV/TXT datasets into **analysis-ready data** in minutes. It automates profiling, issue detection, cleaning recommendations, and exports — while prioritizing **transparency, data correctness, and reproducibility**.
 
 ---
